@@ -71,6 +71,9 @@ A MERN-stack marketplace for discovering, sharing, and monetizing AI prompts.
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="./assets/space-shooter.gif" alt="Space Shooter" width="100%" />
+</div>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
